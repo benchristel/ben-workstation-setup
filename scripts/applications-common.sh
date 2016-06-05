@@ -23,6 +23,3 @@ brew cask install firefox
 
 brew cask install sublime-text
 
-# Emulation tools
-
-brew cask install virtualbox
