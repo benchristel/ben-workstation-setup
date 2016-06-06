@@ -22,7 +22,6 @@ ${MY_DIR}/git-aliases.sh
 ${MY_DIR}/java.sh
 ${MY_DIR}/ruby.sh
 ${MY_DIR}/node.sh
-${MY_DIR}/node-packages.sh
 ${MY_DIR}/applications-common.sh
 
 if [ "${SETUP_TYPE}" == "designer" ]
