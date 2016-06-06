@@ -10,6 +10,4 @@ git clone https://github.com/Bash-it/bash-it.git ~/.bash_it
 popd
 cp files/bobby_pivotal/bobby_pivotal.theme.bash ~/.bash_it/themes/bobby/bobby.theme.bash
 ~/.bash_it/install.sh
-source ~/.bash_profile
-bash-it enable completion git
-bash-it enable plugin ssh
+
