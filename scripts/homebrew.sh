@@ -12,7 +12,7 @@ echo "Ensuring you have the latest Homebrew..."
 brew update
 
 echo 
-echo "Ensuring you have a healthy Homebrew environment..."
+echo "Checking the health of your Homebrew environment..."
 brew doctor
 
 echo
